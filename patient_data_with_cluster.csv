@@ -1,0 +1,677 @@
+,gender,detected_district,detected_state,Travelled from/to or contact,nationality,type_of_transmission,age_bin,cluster_predicted
+0,F,Thrissur,Kerala,wuhan,India,Imported,0-20,1
+1,M,East Delhi,Delhi,usa,India,Imported,40-50,1
+2,M,Hyderabad,Telangana,usa,India,Imported,20-30,0
+3,M,Italians*,Rajasthan,italy,Italy,Imported,60-70,1
+4,F,Italians*,Rajasthan,italy,Italy,Imported,60-70,1
+5,F,Agra,Uttar Pradesh,contact,India,Local,40-50,0
+6,M,Agra,Uttar Pradesh,contact,India,Local,0-20,0
+7,M,South West Delhi,Delhi,italy,India,Imported,20-30,0
+8,M,Ghaziabad,Uttar Pradesh,iran,India,Imported,50-60,1
+9,M,Leh,Ladakh,iran,India,Imported,60-70,1
+10,M,Kancheepuram,Tamil Nadu,middleEast,India,Imported,40-50,1
+11,M,Pathanamthitta,Kerala,italy,India,Imported,20-30,1
+12,M,Pathanamthitta,Kerala,italy,India,Imported,50-60,1
+13,F,Pathanamthitta,Kerala,italy,India,Imported,50-60,1
+14,M,Pathanamthitta,Kerala,contact,India,Local,60-70,0
+15,F,Pathanamthitta,Kerala,contact,India,Local,60-70,0
+16,F,North Delhi,Delhi,history of Travel,India,Local,20-30,0
+17,F,Jammu,Jammu and Kashmir,iran,India,Imported,60-70,1
+18,M,Bengaluru,Karnataka,uk,India,Imported,40-50,0
+19,M,Kannur,Kerala,italy,India,Imported,0-20,1
+20,M,Agra,Uttar Pradesh,usa,India,Local,40-50,0
+21,M,Bengaluru,Karnataka,usa,India,Imported,30-40,0
+22,F,Bengaluru,Karnataka,contact,India,Local,40-50,0
+23,F,Bengaluru,Karnataka,contact,India,Local,0-20,0
+24,M,Pathanamthitta,Kerala,contact,India,Local,90-100,0
+25,F,Pathanamthitta,Kerala,contact,India,Local,80-90,0
+26,F,Pune,Maharashtra,contact,India,Local,0-20,0
+27,M,Jaipur,Rajasthan,dubai,India,Imported,80-90,1
+28,M,South West Delhi,Delhi,italy,India,Imported,40-50,1
+29,M,Mumbai,Maharashtra,usa,India,Imported,60-70,1
+30,F,Mumbai,Maharashtra,usa,India,Imported,60-70,1
+31,M,S.P.S. Nellore,Andhra Pradesh,italy,India,Imported,20-30,0
+32,F,South West Delhi,Delhi,contact,India,Local,60-70,0
+33,M,Bengaluru,Karnataka,greece,India,Imported,20-30,0
+34,M,Kalaburagi,Karnataka,middleEast,India,Imported,70-80,0
+35,M,Mumbai,Maharashtra,dubai,India,Imported,60-70,1
+36,M,Nagpur,Maharashtra,usa,India,Imported,40-50,1
+37,M,Pune,Maharashtra,usa,India,Imported,30-40,1
+38,M,Mumbai,Maharashtra,france,India,Imported,30-40,1
+39,M,Ghaziabad,Uttar Pradesh,contact,India,Local,20-30,0
+40,M,Thane,Maharashtra,usa,India,Imported,30-40,1
+41,M,Nagpur,Maharashtra,usa,India,Imported,40-50,1
+42,M,Pune,Maharashtra,thailand,India,Imported,20-30,0
+43,M,Jaipur,Rajasthan,spain,India,Imported,20-30,0
+44,F,Aurangabad,Maharashtra,usa,India,Imported,50-60,1
+45,M,Bengaluru,Karnataka,uk,India,Imported,30-40,0
+46,F,Kalaburagi,Karnataka,contact,India,Local,40-50,0
+47,F,Thane,Maharashtra,usa,India,Local,30-40,0
+48,F,Thane,Maharashtra,contact,India,Local,0-20,0
+49,F,Mumbai,Maharashtra,travelled from to lisbon in portugal,India,Imported,40-50,1
+50,F,Yavatmal,Maharashtra,dubai,India,Imported,50-60,1
+51,M,Khordha,Odisha,italy,India,Imported,30-40,1
+52,F,Gurugram,Haryana,malaysia,India,Imported,20-30,0
+53,F,Bengaluru,Karnataka,uk,India,Imported,0-20,0
+54,F,Bengaluru,Karnataka,dubai,India,Imported,60-70,0
+55,M,Kalaburagi,Karnataka,contact,India,Local,60-70,0
+56,M,Mumbai,Maharashtra,usa,India,Imported,40-50,1
+57,M,Pune,Maharashtra,usa,India,Imported,20-30,0
+58,F,Mahe,Puducherry,middleEast,India,Imported,60-70,1
+59,M,Hyderabad,Telangana,usa,Indonesia,Imported,50-60,1
+60,F,Gautam Buddha Nagar,Uttar Pradesh,france,India,Imported,20-30,0
+61,M,Kolkata,West Bengal,uk,India,Imported,0-20,1
+62,M,Leh,Ladakh,indian army jawan,India,Local,30-40,0
+63,F,Pune,Maharashtra,middleEast,India,Imported,20-30,0
+64,M,Lucknow,Uttar Pradesh,contact,India,Local,20-30,0
+65,M,Hyderabad,Telangana,uk,India,Imported,20-30,0
+66,F,Bengaluru,Karnataka,usa,India,Imported,50-60,0
+67,M,Bengaluru,Karnataka,spain,India,Imported,20-30,0
+68,M,Gautam Buddha Nagar,Uttar Pradesh,indonesia,India,Imported,20-30,0
+69,M,Gurugram,Haryana,uk,India,Imported,40-50,1
+70,M,Chennai,Tamil Nadu,delhi,India,Local,0-20,0
+71,F,Mumbai,Maharashtra,contact,India,Local,60-70,0
+72,M,Bengaluru,Karnataka,usa,India,Imported,30-40,0
+73,M,Pune,Maharashtra,sri lanka,India,Imported,20-30,0
+74,F,Srinagar,Jammu and Kashmir,middleEast,India,Imported,60-70,1
+75,M,Jhunjhunu,Rajasthan,italy,India,Imported,30-40,1
+76,F,Jhunjhunu,Rajasthan,italy,India,Imported,20-30,0
+77,F,Jhunjhunu,Rajasthan,italy,India,Imported,0-20,1
+78,F,North East Delhi,Delhi,middleEast,India,Imported,30-40,1
+79,F,Chandigarh,Chandigarh,uk,India,Imported,20-30,0
+80,F,Mumbai,Maharashtra,uk,India,Imported,20-30,0
+81,F,Thane,Maharashtra,dubai,India,Imported,40-50,1
+82,M,Kodagu,Karnataka,middleEast,India,Imported,30-40,1
+83,M,Prakasam,Andhra Pradesh,uk,India,Imported,20-30,0
+84,F,Raipur,Chhattisgarh,uk,India,Imported,20-30,0
+85,M,Chennai,Tamil Nadu,ireland,India,Imported,20-30,0
+86,M,Shahid Bhagat Singh Nagar,Punjab,germany,India,Imported,60-70,1
+87,M,Kasaragod,Kerala,dubai,India,Imported,40-50,1
+88,M,Rajkot,Gujarat,middleEast,India,Imported,30-40,1
+89,F,Surat,Gujarat,uk,India,Imported,20-30,0
+90,M,Ahmadnagar,Maharashtra,dubai,India,Imported,50-60,1
+91,M,Khordha,Odisha,uk,India,Imported,0-20,1
+92,M,Visakhapatnam,Andhra Pradesh,middleEast,India,Imported,60-70,1
+93,F,North Delhi,Delhi,uk,India,Imported,20-30,0
+94,M,North West Delhi,Delhi,uk,India,Imported,20-30,0
+95,M,South Delhi,Delhi,indonesia,India,Imported,30-40,1
+96,M,Kolkata,West Bengal,uk,India,Imported,20-30,0
+97,F,S.A.S. Nagar,Punjab,uk,India,Imported,60-70,1
+98,M,North Delhi,Delhi,uk,India,Imported,50-60,1
+99,M,Pune,Maharashtra,contact,India,Local,20-30,0
+100,M,Mumbai,Maharashtra,turkey,India,Imported,30-40,1
+101,M,Mumbai,Maharashtra,uk,India,Imported,0-20,1
+102,F,Ahmadabad,Gujarat,usa,India,Imported,20-30,0
+103,F,Ahmadabad,Gujarat,finland,India,Imported,30-40,1
+104,M,Vadodara,Gujarat,spain,India,Imported,40-50,1
+105,M,Lucknow,Uttar Pradesh,contact,India,Local,30-40,0
+106,M,Lucknow,Uttar Pradesh,contact,India,Local,30-40,0
+107,F,Lucknow,Uttar Pradesh,contact,India,Local,0-20,0
+108,F,Lucknow,Uttar Pradesh,uk,India,Imported,40-50,1
+109,F,Hyderabad,Telangana,uk,India,Imported,0-20,1
+110,F,Vadodara,Gujarat,sri lanka,India,Imported,60-70,1
+111,M,Ahmadabad,Gujarat,uk,India,Imported,20-30,0
+112,F,Chandigarh,Chandigarh,uk,India,Imported,20-30,0
+113,F,Faridabad,Haryana,spain,India,Imported,50-60,1
+114,M,Panipat,Haryana,uk,India,Imported,20-30,0
+115,M,Kasaragod,Kerala,middleEast,India,Imported,50-60,1
+116,M,Kasaragod,Kerala,dubai,India,Imported,20-30,1
+117,F,Kangra,Himachal Pradesh,dubai,India,Imported,60-70,1
+118,M,Kangra,Himachal Pradesh,singapore,India,Imported,30-40,1
+119,M,Jabalpur,Madhya Pradesh,dubai,India,Imported,50-60,1
+120,F,Jabalpur,Madhya Pradesh,dubai,India,Imported,40-50,1
+121,F,Jabalpur,Madhya Pradesh,dubai,India,Imported,20-30,1
+122,M,Jabalpur,Madhya Pradesh,germany,India,Imported,20-30,0
+123,M,Karimnagar,Telangana,indonesia,Indonesia,Imported,20-30,0
+124,M,Karimnagar,Telangana,indonesia,Indonesia,Imported,50-60,1
+125,M,West Delhi,Delhi,france,India,Imported,30-40,1
+126,M,Thane,Maharashtra,dubai,India,Imported,50-60,1
+127,M,Pune,Maharashtra,uk,India,Imported,0-20,1
+128,F,North 24 Parganas,West Bengal,uk,India,Imported,20-30,0
+129,M,S.A.S. Nagar,Punjab,uk,India,Imported,40-50,1
+130,F,S.A.S. Nagar,Punjab,contact,India,Local,70-80,0
+131,F,S.A.S. Nagar,Punjab,contact,India,Local,20-30,0
+132,M,Vadodara,Gujarat,sri lanka,India,Imported,50-60,1
+133,M,Mumbai,Maharashtra,uk,India,Imported,60-70,1
+134,F,Pune,Maharashtra,usa,India,TBD,40-50,0
+135,M,Bengaluru,Karnataka,middleEast,India,Imported,30-40,0
+136,F,Panchkula,Haryana,usa,India,Local,30-40,0
+137,M,Surat,Gujarat,delhi,India,Local,60-70,0
+138,M,Gandhinagar,Gujarat,dubai,India,Imported,20-30,1
+139,F,Bengaluru,Karnataka,contact,India,Local,50-60,0
+140,M,Bengaluru,Karnataka,netherlands,India,Imported,30-40,0
+141,F,Moradabad,Uttar Pradesh,france,India,Imported,0-20,1
+142,M,Hyderabad,Telangana,contact,India,Local,30-40,0
+143,M,Hyderabad,Telangana,dubai,India,Imported,30-40,1
+144,M,Erode,Tamil Nadu,uk,Thailand,Imported,60-70,1
+145,M,Erode,Tamil Nadu,uk,Thailand,Imported,70-80,1
+146,M,Chennai,Tamil Nadu,singapore,India,Imported,60-70,1
+147,M,Shahid Bhagat Singh Nagar,Punjab,contact,India,Local,30-40,0
+148,M,Shahid Bhagat Singh Nagar,Punjab,contact,India,Local,30-40,0
+149,M,Shahid Bhagat Singh Nagar,Punjab,contact,India,Local,40-50,0
+150,F,Shahid Bhagat Singh Nagar,Punjab,contact,India,Local,30-40,0
+151,M,Shahid Bhagat Singh Nagar,Punjab,contact,India,Local,0-20,0
+152,F,Shahid Bhagat Singh Nagar,Punjab,contact,India,Local,30-40,0
+153,M,Hoshiarpur,Punjab,contact,India,Local,50-60,0
+154,M,Kasaragod,Kerala,"landed in mangalore airport, had been to kasturba medical college attavar",India,Imported,50-60,1
+155,M,Bengaluru,Karnataka,uk,India,Imported,20-30,0
+156,M,Mysuru,Karnataka,dubai,India,Imported,30-40,1
+157,F,Sonipat,Haryana,uk,India,Imported,20-30,0
+158,M,Kolkata,West Bengal,local,India,Local,50-60,0
+159,F,Kachchh,Gujarat,middleEast,India,Imported,50-60,1
+160,M,East Godavari,Andhra Pradesh,uk,India,Imported,20-30,0
+161,M,Krishna,Andhra Pradesh,paris,India,Imported,20-30,0
+162,M,Gautam Buddha Nagar,Uttar Pradesh,dubai,India,Imported,30-40,1
+163,M,Varanasi,Uttar Pradesh,dubai,India,Imported,20-30,1
+164,M,Dharwad,Karnataka,dubai,India,Imported,30-40,1
+165,M,Mumbai,Maharashtra,usa,India,Imported,30-40,1
+166,F,Mumbai,Maharashtra,usa,India,Imported,20-30,0
+167,M,Mumbai,Maharashtra,middleEast,India,Imported,20-30,0
+168,F,Mumbai,Maharashtra,middleEast,India,Imported,50-60,1
+169,F,Mumbai,Maharashtra,contact,India,Local,60-70,0
+170,M,Thane,Maharashtra,turkey,India,Imported,30-40,1
+171,F,Coimbatore,Tamil Nadu,spain,India,Imported,20-30,0
+172,M,Munger,Bihar,qatar,India,Imported,30-40,1
+173,M,Hyderabad,Telangana,uk,India,Imported,20-30,0
+174,F,Gandhinagar,Gujarat,dubai,India,Imported,80-90,1
+175,F,Bhopal,Madhya Pradesh,uk,India,Imported,20-30,0
+176,M,Kasaragod,Kerala,dubai,India,Imported,50-60,1
+177,M,Kasaragod,Kerala,middleEast,India,Imported,20-30,1
+178,M,Kasaragod,Kerala,middleEast,India,Imported,30-40,1
+179,M,Kasaragod,Kerala,middleEast,India,Imported,40-50,1
+180,M,Kasaragod,Kerala,middleEast,India,Imported,30-40,1
+181,M,Hyderabad,Telangana,sweden,India,Imported,20-30,0
+182,M,Hyderabad,Telangana,sweden,India,Imported,30-40,1
+183,M,Bhadradri Kothagudem,Telangana,uk,India,Imported,20-30,0
+184,M,Hyderabad,Telangana,uk,India,Imported,20-30,0
+185,F,Hyderabad,Telangana,dubai,India,Imported,40-50,1
+186,M,Uttara Kannada,Karnataka,dubai,India,Imported,20-30,0
+187,M,Malappuram,Kerala,middleEast,India,Imported,30-40,1
+188,M,Malappuram,Kerala,dubai,India,Imported,20-30,1
+189,F,Kozhikode,Kerala,middleEast,India,Imported,40-50,1
+190,M,Kozhikode,Kerala,dubai,India,Imported,20-30,1
+191,M,Ernakulam,Kerala,dubai,India,Imported,60-70,1
+192,F,Ernakulam,Kerala,uk,India,Imported,20-30,1
+193,F,Bengaluru,Karnataka,usa,India,Imported,60-70,0
+194,F,Bengaluru,Karnataka,france,India,Imported,30-40,0
+195,M,Bengaluru,Karnataka,germany,India,Imported,20-30,0
+196,M,Bengaluru,Karnataka,uk,India,Imported,50-60,0
+197,M,Gautam Buddha Nagar,Uttar Pradesh,denmark,India,Imported,30-40,1
+198,F,Gautam Buddha Nagar,Uttar Pradesh,contact,India,Local,60-70,0
+199,M,Kolkata,West Bengal,contact,India,Local,40-50,0
+200,F,Kolkata,West Bengal,contact,India,Local,40-50,0
+201,F,Kolkata,West Bengal,contact,India,Local,0-20,0
+202,M,Jabalpur,Madhya Pradesh,usa,India,Local,50-60,0
+203,F,Chennai,Tamil Nadu,singapore,India,Imported,60-70,1
+204,M,Tirunelveli,Tamil Nadu,dubai,India,Imported,40-50,1
+205,F,Visakhapatnam,Andhra Pradesh,usa,India,Local,40-50,0
+206,M,Jodhpur,Rajasthan,turkey,India,Imported,30-40,1
+207,M,Mysuru,Karnataka,dubai,India,Imported,40-50,1
+208,M,Surat,Gujarat,localTransmission,India,Local,40-50,0
+209,M,Ahmadabad,Gujarat,middleEast,India,Imported,50-60,1
+210,F,Ahmadabad,Gujarat,middleEast,India,Imported,50-60,1
+211,F,Vadodara,Gujarat,contact,India,Local,20-30,0
+212,F,Vadodara,Gujarat,contact,India,Local,20-30,0
+213,F,Ahmadabad,Gujarat,paris,India,Imported,20-30,0
+214,M,Ahmadabad,Gujarat,localTransmission,India,Local,30-40,0
+215,M,Gandhinagar,Gujarat,contact,India,Local,40-50,0
+216,F,Vadodara,Gujarat,sri lanka,India,Imported,40-50,1
+217,M,Ahmadabad,Gujarat,uk,India,Imported,60-70,1
+218,F,Ahmadabad,Gujarat,middleEast,India,Imported,80-90,1
+219,M,Hyderabad,Telangana,france,India,Imported,20-30,0
+220,M,Hyderabad,Telangana,uk,India,Imported,20-30,0
+221,M,Karimnagar,Telangana,indonesia,India,Local,20-30,0
+222,M,Chandigarh,Chandigarh,contact,India,Local,20-30,0
+223,M,Hyderabad,Telangana,usa,India,Imported,0-20,1
+224,M,Hyderabad,Telangana,uk,India,Imported,20-30,0
+225,M,Hyderabad,Telangana,sri lanka,India,Imported,50-60,1
+226,M,Vadodara,Gujarat,contact,India,Local,30-40,0
+227,M,Dehradun,Uttarakhand,contact,United States of America,TBD,40-50,0
+228,M,Kasaragod,Kerala,dubai,India,Imported,20-30,1
+229,M,Kasaragod,Kerala,dubai,India,Imported,20-30,1
+230,M,Kasaragod,Kerala,dubai,India,Imported,30-40,1
+231,M,Kasaragod,Kerala,dubai,India,Imported,40-50,1
+232,M,Kasaragod,Kerala,dubai,India,Imported,30-40,1
+233,M,Kasaragod,Kerala,dubai,India,Imported,30-40,1
+234,M,Kasaragod,Kerala,dubai,India,Imported,30-40,1
+235,F,Kasaragod,Kerala,dubai,India,Imported,20-30,1
+236,F,Ernakulam,Kerala,uk,United Kingdom,Imported,60-70,1
+237,M,Bengaluru,Karnataka,dubai,India,Imported,30-40,1
+238,M,Bengaluru,Karnataka,uk,India,Imported,40-50,0
+239,F,Bengaluru,Karnataka,contact,India,Local,20-30,0
+240,M,Bengaluru,Karnataka,uk,India,Imported,20-30,0
+241,M,Bengaluru,Karnataka,germany,India,Imported,50-60,0
+242,M,Bengaluru,Karnataka,dubai,India,Imported,20-30,0
+243,F,Mumbai,Maharashtra,middleEast,India,Imported,30-40,1
+244,F,Satara,Maharashtra,dubai,India,Imported,40-50,1
+245,F,Pilibhit,Uttar Pradesh,middleEast,India,Imported,40-50,1
+246,M,Kangra,Himachal Pradesh,usa,Tibet,Imported,60-70,1
+247,M,Shahid Bhagat Singh Nagar,Punjab,contact,India,Local,0-20,0
+248,M,Visakhapatnam,Andhra Pradesh,uk,India,Imported,20-30,0
+249,M,Chennai,Tamil Nadu,uk,India,Imported,20-30,0
+250,M,Tiruppur,Tamil Nadu,uk,India,Imported,40-50,1
+251,M,Madurai,Tamil Nadu,thailand,India,Local,50-60,0
+252,M,Patna,Bihar,uk,India,Imported,20-30,0
+253,M,Jaunpur,Uttar Pradesh,middleEast,India,Imported,30-40,1
+254,M,Ghaziabad,Uttar Pradesh,france,India,Imported,40-50,1
+255,F,Imphal West,Manipur,uk,India,Imported,20-30,0
+256,M,Dakshina Kannada,Karnataka,dubai,India,Imported,30-40,1
+257,M,Dakshina Kannada,Karnataka,dubai,India,Imported,30-40,1
+258,M,Uttara Kannada,Karnataka,dubai,India,Imported,60-70,1
+259,F,Chikkaballapura,Karnataka,usa,India,Imported,50-60,0
+260,M,Surat,Gujarat,middleEast,India,Imported,60-70,1
+261,M,Gandhinagar,Gujarat,contact,India,Local,50-60,0
+262,F,Gandhinagar,Gujarat,contact,India,Local,50-60,0
+263,M,Kolkata,West Bengal,egypt,India,Imported,50-60,1
+264,M,Chennai,Tamil Nadu,usa,India,Imported,70-80,1
+265,F,Chennai,Tamil Nadu,uk,India,Imported,50-60,1
+266,F,Chengalpattu,Tamil Nadu,delhi,India,Imported,20-30,0
+267,M,Ranga Reddy,Telangana,uk,India,Imported,40-50,1
+268,F,Ranga Reddy,Telangana,germany,India,Imported,30-40,1
+269,F,Hyderabad,Telangana,middleEast,India,Imported,60-70,1
+270,F,Bengaluru,Karnataka,contact,India,Local,50-60,0
+271,M,Dakshina Kannada,Karnataka,dubai,India,Imported,40-50,1
+272,M,Kolkata,West Bengal,uk,India,Imported,50-60,1
+273,M,Bandipore,Jammu and Kashmir,delhi,India,Imported,60-70,1
+274,M,Srinagar,Jammu and Kashmir,contact,India,Local,50-60,0
+275,F,Gautam Buddha Nagar,Uttar Pradesh,uk,India,Local,40-50,0
+276,F,Ernakulam,Kerala,contact,India,Local,50-60,0
+277,F,Dakshina Kannada,Karnataka,middleEast,India,Imported,60-70,0
+278,M,Dakshina Kannada,Karnataka,dubai,India,Imported,20-30,0
+279,M,Chittoor,Andhra Pradesh,uk,India,Imported,20-30,0
+280,M,Chennai,Tamil Nadu,newZealand,India,Imported,60-70,1
+281,F,Chennai,Tamil Nadu,history of Travel,India,Local,50-60,0
+282,M,Chennai,Tamil Nadu,uk,India,Imported,20-30,0
+283,F,Hyderabad,Telangana,contact,India,Local,60-70,0
+284,M,Rajkot,Gujarat,middleEast,India,Imported,30-40,1
+285,F,Rajkot,Gujarat,middleEast,India,Imported,70-80,1
+286,M,Bhadradri Kothagudem,Telangana,contact,India,Local,50-60,0
+287,M,Gwalior,Madhya Pradesh,native of allahabad,India,TBD,30-40,1
+288,M,Aizawl,Mizoram,netherlands,India,Imported,40-50,1
+289,M,Thane,Maharashtra,contact,India,Local,50-60,0
+290,M,Mumbai,Maharashtra,usa,India,Imported,20-30,0
+291,M,Mumbai,Maharashtra,middleEast,India,Imported,30-40,1
+292,M,Raigarh,Maharashtra,travelled from trinidad,India,Imported,30-40,1
+293,M,Salem,Tamil Nadu,indonesia,India,Local,60-70,0
+294,M,Udupi,Karnataka,dubai,India,Imported,30-40,1
+295,F,Gurugram,Haryana,private hospital nurse,India,Local,20-30,0
+296,M,Ernakulam,Kerala,france,India,Imported,20-30,1
+297,M,Ernakulam,Kerala,france,India,Imported,20-30,1
+298,M,Ernakulam,Kerala,contact,India,Local,30-40,0
+299,F,Davanagere,Karnataka,bangalore,India,Imported,30-40,1
+300,M,Bengaluru,Karnataka,bangalore,India,Imported,60-70,0
+301,F,Bengaluru,Karnataka,contact,India,Imported,50-60,0
+302,M,Bengaluru,Karnataka,spain,India,Imported,20-30,0
+303,M,Bengaluru,Karnataka,spain,India,Imported,20-30,0
+304,F,Bengaluru,Karnataka,uk,India,Imported,60-70,0
+305,M,Bengaluru,Karnataka,uk,India,Imported,60-70,0
+306,F,Bengaluru,Karnataka,contact,India,Local,0-20,0
+307,F,Bengaluru,Karnataka,contact,India,Local,0-20,0
+308,F,Ludhiana,Punjab,usa,India,Local,50-60,0
+309,M,Hoshiarpur,Punjab,contact,India,Local,30-40,0
+310,M,Pauri Garhwal,Uttarakhand,spain,India,Imported,20-30,0
+311,M,Rajnandgaon,Chhattisgarh,thailand,India,Imported,20-30,0
+312,F,Raipur,Chhattisgarh,uk,India,Imported,20-30,0
+313,F,Hyderabad,Telangana,contact,India,Local,40-50,0
+314,M,Hyderabad,Telangana,middleEast,India,Imported,0-20,1
+315,M,Krishna,Andhra Pradesh,usa,India,Imported,20-30,0
+316,M,Chennai,Tamil Nadu,contact,India,Local,0-20,0
+317,M,Ranipet,Tamil Nadu,dubai,India,Imported,20-30,1
+318,M,Erode,Tamil Nadu,contact,India,Local,60-70,0
+319,M,Guntur,Andhra Pradesh,delhi,India,Local,50-60,0
+320,M,North Goa,Goa,spain,India,Imported,20-30,0
+321,M,North Goa,Goa,usa,India,Imported,20-30,0
+322,M,North Goa,Goa,usa,India,Imported,50-60,1
+323,M,Kolkata,West Bengal,history of Travel,India,Local,60-70,0
+324,F,Gautam Buddha Nagar,Uttar Pradesh,contact,India,Local,20-30,0
+325,M,Gautam Buddha Nagar,Uttar Pradesh,uk,India,Local,30-40,0
+326,F,Gautam Buddha Nagar,Uttar Pradesh,contact,India,Local,30-40,0
+327,M,Baghpat,Uttar Pradesh,dubai,India,Imported,30-40,1
+328,F,Munger,Bihar,contact,India,Local,30-40,0
+329,M,Munger,Bihar,contact,India,Local,0-20,0
+330,M,Medchal Malkajgiri,Telangana,delhi,India,Local,40-50,0
+331,F,Hyderabad,Telangana,contact,India,Local,30-40,0
+332,M,Hyderabad,Telangana,usa,India,Local,40-50,0
+333,M,Jaipur,Rajasthan,history of Travel,India,Imported,40-50,1
+334,M,Jhunjhunu,Rajasthan,history of Travel,India,Imported,30-40,1
+335,M,Mysuru,Karnataka,contact,India,TBD,30-40,0
+336,F,Bengaluru,Karnataka,middleEast,India,Imported,60-70,0
+337,M,Bengaluru,Karnataka,france,India,Imported,60-70,0
+338,M,Bengaluru,Karnataka,contact,India,Local,40-50,0
+339,F,Panipat,Haryana,nurse in a private hospital of gurugram,India,Local,20-30,0
+340,M,Erode,Tamil Nadu,dubai,India,Imported,20-30,1
+341,M,Srinagar,Jammu and Kashmir,middleEast,India,Local,0-20,0
+342,M,Srinagar,Jammu and Kashmir,middleEast,India,Local,0-20,0
+343,M,Malappuram,Kerala,middleEast,India,Imported,40-50,1
+344,M,Malappuram,Kerala,dubai,India,Imported,30-40,1
+345,M,Malappuram,Kerala,dubai,India,Imported,30-40,1
+346,M,Thrissur,Kerala,contact,India,Local,30-40,0
+347,M,Chennai,Tamil Nadu,uk,India,Imported,20-30,0
+348,F,Chennai,Tamil Nadu,contact,India,Local,60-70,0
+349,M,Patna,Bihar,history of Travel,India,Local,0-20,0
+350,M,Krishna,Andhra Pradesh,delhi,India,Imported,20-30,0
+351,M,Hyderabad,Telangana,delhi,India,Local,40-50,0
+352,M,North and Middle Andaman,Andaman and Nicobar Islands,contact,India,Local,50-60,0
+353,M,Visakhapatnam,Andhra Pradesh,contact,India,Local,50-60,0
+354,M,Madurai,Tamil Nadu,contact,India,Local,20-30,0
+355,F,Madurai,Tamil Nadu,contact,India,Local,40-50,0
+356,M,Erode,Tamil Nadu,contact,India,Local,40-50,0
+357,M,Erode,Tamil Nadu,contact,India,Local,40-50,0
+358,M,Chennai,Tamil Nadu,contact,India,Local,20-30,0
+359,M,Dakshina Kannada,Karnataka,history of Travel,India,Local,0-20,0
+360,M,Bengaluru,Karnataka,"travelled from colombo, arrived on 15.03.2020",India,Imported,0-20,0
+361,F,Bengaluru,Karnataka,uk,India,Imported,20-30,0
+362,F,Bengaluru,Karnataka,contact,India,Local,30-40,0
+363,M,Tumakuru,Karnataka,delhi,India,Local,50-60,0
+364,F,Bengaluru,Karnataka,contact,India,Local,30-40,0
+365,M,Uttara Kannada,Karnataka,dubai,India,Imported,20-30,0
+366,M,Ujjain,Madhya Pradesh,contact,India,Local,40-50,0
+367,M,Kollam,Kerala,dubai,India,Imported,40-50,1
+368,M,Davanagere,Karnataka,paris,India,Imported,0-20,0
+369,M,Dakshina Kannada,Karnataka,dubai,India,Imported,20-30,0
+370,M,Nadia,West Bengal,uk,India,Local,0-20,0
+371,F,Nadia,West Bengal,uk,India,Local,20-30,0
+372,F,Nadia,West Bengal,uk,India,Local,40-50,0
+373,F,Nadia,West Bengal,uk,India,Local,0-20,0
+374,F,Nadia,West Bengal,uk,India,Local,0-20,0
+375,F,Chengalpattu,Tamil Nadu,history of Travel,India,Local,70-80,0
+376,M,Salem,Tamil Nadu,indonesia,India,Local,60-70,0
+377,M,Chennai,Tamil Nadu,history of Travel,India,Local,30-40,0
+378,F,Guntur,Andhra Pradesh,contact,India,Local,40-50,0
+379,M,Chandigarh,Chandigarh,dubai,India,Imported,20-30,1
+380,M,Bhopal,Madhya Pradesh,bhopal,India,Local,40-50,0
+381,M,Rajkot,Gujarat,contact,India,Imported,30-40,1
+382,M,Rajkot,Gujarat,localTransmission,India,Local,30-40,0
+383,F,Rajkot,Gujarat,localTransmission,India,Local,30-40,0
+384,M,Thanjavur,Tamil Nadu,middleEast,India,Imported,40-50,1
+385,M,Vellore,Tamil Nadu,uk,India,Imported,40-50,1
+386,M,Ajmer,Rajasthan,punjab,India,TBD,20-30,0
+387,F,Uttara Kannada,Karnataka,contact,India,Local,50-60,0
+388,F,Uttara Kannada,Karnataka,contact,India,Local,20-30,0
+389,F,Uttara Kannada,Karnataka,contact,India,Local,20-30,0
+390,M,Bengaluru,Karnataka,uk,India,Imported,20-30,0
+391,M,Chikkaballapura,Karnataka,contact,India,Local,20-30,0
+392,M,Chikkaballapura,Karnataka,contact,India,Local,60-70,0
+393,F,Chikkaballapura,Karnataka,contact,India,Local,30-40,0
+394,M,Chikkaballapura,Karnataka,contact,India,Local,30-40,0
+395,M,Chikkaballapura,Karnataka,contact,India,Local,0-20,0
+396,F,Bengaluru,Karnataka,uk,India,Imported,60-70,0
+397,M,Srinagar,Jammu and Kashmir,usa,India,Local,40-50,0
+398,F,Srinagar,Jammu and Kashmir,contact,India,Local,30-40,0
+399,M,Srinagar,Jammu and Kashmir,indonesia,India,Imported,50-60,1
+400,M,Bandipore,Jammu and Kashmir,contact,India,Local,20-30,0
+401,M,Bandipore,Jammu and Kashmir,contact,India,Local,20-30,0
+402,M,Bandipore,Jammu and Kashmir,contact,India,Local,20-30,0
+403,M,Bandipore,Jammu and Kashmir,contact,India,Local,20-30,0
+404,M,Kasaragod,Kerala,dubai,India,Imported,30-40,1
+405,M,Virudhunagar,Tamil Nadu,history of Travel,India,TBD,50-60,0
+406,M,Raipur,Chhattisgarh,uk,India,Imported,20-30,0
+407,M,Chennai,Tamil Nadu,usa,India,Imported,20-30,0
+408,M,Davanagere,Karnataka,usa,India,Local,0-20,0
+409,M,Uttara Kannada,Karnataka,contact,India,Local,20-30,0
+410,F,Medinipur East,West Bengal,usa,India,Local,70-80,0
+411,F,Medinipur East,West Bengal,usa,India,Local,50-60,0
+412,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+413,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+414,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+415,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+416,M,Mysuru,Karnataka,usa,India,Local,40-50,0
+417,M,Ambala,Haryana,contact,India,Local,20-30,0
+418,F,Erode,Tamil Nadu,contact,India,Local,20-30,0
+419,F,Erode,Tamil Nadu,contact,India,Local,50-60,0
+420,M,Erode,Tamil Nadu,contact,India,Local,0-20,0
+421,F,Erode,Tamil Nadu,contact,India,Local,50-60,0
+422,M,Erode,Tamil Nadu,delhi,India,Local,40-50,0
+423,M,Erode,Tamil Nadu,delhi,India,Local,40-50,0
+424,M,Erode,Tamil Nadu,delhi,India,Local,60-70,0
+425,M,Erode,Tamil Nadu,delhi,India,Local,60-70,0
+426,M,Udupi,Karnataka,dubai,India,Imported,30-40,1
+427,M,Udupi,Karnataka,travelled from trivandrum,India,Local,20-30,0
+428,M,Bengaluru,Karnataka,contact,India,Local,0-20,0
+429,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+430,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+431,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+432,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+433,M,Ballari,Karnataka,contact,India,Local,50-60,0
+434,F,Ballari,Karnataka,contact,India,Local,40-50,0
+435,F,Ballari,Karnataka,contact,India,Local,20-30,0
+436,M,Bengaluru,Karnataka,usa,India,Local,30-40,0
+437,M,Bengaluru,Karnataka,usa,India,Imported,0-20,0
+438,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+439,M,Mysuru,Karnataka,contact,India,Local,40-50,0
+440,M,Dakshina Kannada,Karnataka,dubai,India,Imported,30-40,1
+441,M,Uttara Kannada,Karnataka,dubai,India,Imported,20-30,0
+442,F,Kalaburagi,Karnataka,contact,India,Local,50-60,0
+443,M,Bengaluru,Karnataka,dubai,India,Imported,30-40,1
+444,M,Puducherry,Puducherry,delhi,India,Local,50-60,0
+445,M,Puducherry,Puducherry,delhi,India,Local,30-40,0
+446,F,Ludhiana,Punjab,contact,India,Local,70-80,0
+447,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+448,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+449,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+450,M,Thiruvarur,Tamil Nadu,delhi,Myanmar,Imported,40-50,1
+451,M,Dakshina Kannada,Karnataka,dubai,India,Imported,40-50,1
+452,M,Bengaluru,Karnataka,spain,India,Imported,20-30,0
+453,M,Bengaluru,Karnataka,germany,India,Imported,60-70,0
+454,M,Mysuru,Karnataka,contact,India,Local,60-70,0
+455,F,Mysuru,Karnataka,contact,India,Local,20-30,0
+456,M,Hoshiarpur,Punjab,uk,India,Local,60-70,0
+457,M,Bidar,Karnataka,delhi,India,Local,40-50,0
+458,M,Bidar,Karnataka,delhi,India,Local,20-30,0
+459,M,Bidar,Karnataka,delhi,India,Local,40-50,0
+460,M,Bidar,Karnataka,delhi,India,Local,60-70,0
+461,M,Bidar,Karnataka,delhi,India,Local,50-60,0
+462,M,Bidar,Karnataka,uk,India,Local,30-40,0
+463,M,Bidar,Karnataka,delhi,India,Local,50-60,0
+464,M,Bidar,Karnataka,delhi,India,Local,60-70,0
+465,M,Bidar,Karnataka,delhi,India,Local,70-80,0
+466,M,Bidar,Karnataka,delhi,India,Local,40-50,0
+467,F,Kalaburagi,Karnataka,contact,India,Local,50-60,0
+468,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+469,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+470,M,Ballari,Karnataka,contact,India,Local,0-20,0
+471,F,Ludhiana,Punjab,travelled to mohali,India,Local,60-70,0
+472,M,Belagavi,Karnataka,delhi,India,Local,60-70,0
+473,M,Belagavi,Karnataka,delhi,India,Local,20-30,0
+474,M,Belagavi,Karnataka,delhi,India,Local,0-20,0
+475,M,Gaya,Bihar,dubai,India,Imported,30-40,1
+476,M,Bengaluru,Karnataka,contact,India,Local,20-30,0
+477,M,Bengaluru,Karnataka,contact,India,Local,50-60,0
+478,M,Bengaluru,Karnataka,contact,India,Local,40-50,0
+479,M,Bengaluru,Karnataka,dubai,India,Imported,70-80,0
+480,M,Bengaluru Rural,Karnataka,germany,India,Imported,50-60,0
+481,M,Mysuru,Karnataka,delhi,India,Local,30-40,0
+482,M,Mysuru,Karnataka,delhi,India,Local,0-20,0
+483,M,Mysuru,Karnataka,delhi,India,Local,30-40,0
+484,M,Mysuru,Karnataka,the detailed investigation is under process,India,TBD,30-40,0
+485,M,Mysuru,Karnataka,delhi,India,Local,50-60,0
+486,M,Mysuru,Karnataka,the detailed investigation is under process,India,TBD,30-40,0
+487,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+488,F,Ballari,Karnataka,the detailed investigation is under process,India,TBD,40-50,0
+489,F,Dakshina Kannada,Karnataka,dubai,India,Imported,60-70,1
+490,M,Dakshina Kannada,Karnataka,delhi,India,Local,40-50,0
+491,M,Dakshina Kannada,Karnataka,delhi,India,Local,50-60,0
+492,M,Ahmadabad,Gujarat,localTransmission,India,Local,40-50,0
+493,M,Ahmadabad,Gujarat,localTransmission,India,Local,50-60,0
+494,F,Ahmadabad,Gujarat,localTransmission,India,Local,70-80,0
+495,F,Bhavnagar,Gujarat,localTransmission,India,Local,30-40,0
+496,M,Bhavnagar,Gujarat,localTransmission,India,Local,20-30,0
+497,M,Vadodara,Gujarat,localTransmission,India,Local,50-60,0
+498,F,Surat,Gujarat,localTransmission,India,Local,30-40,0
+499,M,Surat,Gujarat,localTransmission,India,Local,30-40,0
+500,M,Bengaluru,Karnataka,usa,India,Imported,60-70,0
+501,F,Bengaluru,Karnataka,dubai,India,Imported,60-70,0
+502,M,Khordha,Odisha,usa,India,Imported,60-70,1
+503,M,S.A.S. Nagar,Punjab,history of Travel,India,Local,40-50,0
+504,F,Barnala,Punjab,history of Travel,India,Local,40-50,0
+505,M,Kannur,Kerala,contact,India,Local,80-90,0
+506,M,Kasaragod,Kerala,contact,India,Local,0-20,0
+507,F,Belagavi,Karnataka,delhi,India,Local,30-40,0
+508,M,Belagavi,Karnataka,delhi,India,Local,30-40,0
+509,F,Belagavi,Karnataka,delhi,India,Local,60-70,0
+510,F,Belagavi,Karnataka,delhi,India,Local,40-50,0
+511,M,Ballari,Karnataka,delhi,India,Local,40-50,0
+512,M,Ahmadabad,Gujarat,localTransmission,India,Local,0-20,0
+513,M,Ahmadabad,Gujarat,localTransmission,India,Local,30-40,0
+514,M,Ahmadabad,Gujarat,localTransmission,India,Local,30-40,0
+515,M,Ahmadabad,Gujarat,delhi,India,Local,30-40,0
+516,M,Bengaluru,Karnataka,contact,India,Local,30-40,0
+517,F,Bengaluru,Karnataka,germany,India,Imported,60-70,0
+518,M,Mysuru,Karnataka,contact,India,Local,0-20,0
+519,M,Mysuru,Karnataka,delhi,India,Local,30-40,0
+520,M,Mysuru,Karnataka,delhi,India,Local,50-60,0
+521,M,Mysuru,Karnataka,delhi,India,Local,20-30,0
+522,F,Mysuru,Karnataka,contact,India,Local,30-40,0
+523,M,Mysuru,Karnataka,dubai,India,Imported,30-40,1
+524,F,Bagalkote,Karnataka,contact,India,Local,50-60,0
+525,M,Bagalkote,Karnataka,contact,India,Local,50-60,0
+526,M,Bengaluru Rural,Karnataka,delhi,India,Local,40-50,0
+527,F,S.A.S. Nagar,Punjab,contact,India,Local,70-80,0
+528,F,S.A.S. Nagar,Punjab,contact,India,Local,50-60,0
+529,M,Kapurthala,Punjab,contact,India,Local,0-20,0
+530,M,Rupnagar,Punjab,contact,India,Local,0-20,0
+531,F,Rupnagar,Punjab,contact,India,Local,50-60,0
+532,F,Amritsar,Punjab,usa,India,Local,50-60,0
+533,M,Kendrapara,Odisha,dubai,India,Imported,30-40,1
+534,M,Bagalkote,Karnataka,delhi,India,Local,30-40,0
+535,F,Bagalkote,Karnataka,contact,India,Local,40-50,0
+536,F,Gadag,Karnataka,sari,India,Local,70-80,0
+537,M,Bengaluru,Karnataka,delhi,India,Local,20-30,0
+538,M,Bengaluru,Karnataka,delhi,India,Local,40-50,0
+539,M,Bengaluru Rural,Karnataka,delhi,India,Local,30-40,0
+540,M,Bengaluru,Karnataka,dubai,India,Imported,60-70,0
+541,M,Mandya,Karnataka,contact,India,Local,30-40,0
+542,M,Mandya,Karnataka,contact,India,Local,30-40,0
+543,M,Mandya,Karnataka,contact,India,Local,60-70,0
+544,F,Kalaburagi,Karnataka,contact,India,Local,20-30,0
+545,M,Kalaburagi,Karnataka,sari,India,Local,50-60,0
+546,M,Khordha,Odisha,history of Travel,India,Local,70-80,0
+547,M,Moga,Punjab,mumbai,India,Local,30-40,0
+548,M,Pathankot,Punjab,usa,India,Local,70-80,0
+549,M,Kannur,Kerala,dubai,India,Imported ,30-40,1
+550,M,Kannur,Kerala,dubai,India,Imported ,40-50,1
+551,F,Siwan,Bihar,middleEast,India,Imported,40-50,1
+552,F,Siwan,Bihar,middleEast,India,Imported,20-30,0
+553,F,Uttara Kannada,Karnataka,dubai,India,Local,20-30,0
+554,M,Kalaburagi,Karnataka,sari,India,Local,60-70,0
+555,F,Kalaburagi,Karnataka,contact,India,Local,70-80,0
+556,M,Mandya,Karnataka,contact,India,Local,30-40,0
+557,M,Chikkaballapura,Karnataka,delhi,India,Local,20-30,0
+558,F,Bengaluru,Karnataka,delhi,India,Local,20-30,0
+559,M,Jalandhar,Punjab,italy,India,Local,40-50,0
+560,M,Kannur,Kerala,middleEast,India,Imported,0-20,1
+561,M,Kasaragod,Kerala,dubai,India,Imported,50-60,1
+562,F,Siwan,Bihar,middleEast,India,Local,20-30,0
+563,F,Siwan,Bihar,middleEast,India,Local,0-20,0
+564,F,Siwan,Bihar,middleEast,India,Local,0-20,0
+565,F,Siwan,Bihar,middleEast,India,Local,20-30,0
+566,F,Siwan,Bihar,middleEast,India,Local,40-50,0
+567,F,Siwan,Bihar,middleEast,India,Local,0-20,0
+568,F,Siwan,Bihar,middleEast,India,Local,0-20,0
+569,M,Siwan,Bihar,middleEast,India,Local,20-30,0
+570,M,Siwan,Bihar,middleEast,India,Local,0-20,0
+571,M,Belagavi,Karnataka,contact,India,Local,40-50,0
+572,M,Mysuru,Karnataka,contact,India,Local,50-60,0
+573,M,Mysuru,Karnataka,contact,India,Local,60-70,0
+574,M,Mandya,Karnataka,contact,India,Local,30-40,0
+575,M,Bagalkote,Karnataka,contact,India,Local,0-20,0
+576,M,Bagalkote,Karnataka,contact,India,Local,0-20,0
+577,F,Bagalkote,Karnataka,contact,India,Local,0-20,0
+578,M,Bengaluru,Karnataka,delhi,India,Local,0-20,0
+579,M,Bengaluru,Karnataka,delhi,India,Local,20-30,0
+580,F,Chikkaballapura,Karnataka,contact,India,Local,40-50,0
+581,F,Belagavi,Karnataka,contact,India,Local,30-40,0
+582,M,Belagavi,Karnataka,contact,India,Local,20-30,0
+583,M,Dharwad,Karnataka,delhi,India,Local,20-30,0
+584,M,Bengaluru,Karnataka,bangalore,India,Local,60-70,0
+585,M,Bengaluru,Karnataka,sari,India,Local,40-50,0
+586,M,Bengaluru,Karnataka,sari,India,Local,20-30,0
+587,M,Kasaragod,Kerala,contact,India,Local,0-20,0
+588,M,Kasaragod,Kerala,contact,India,Local,0-20,0
+589,F,Kasaragod,Kerala,contact,India,Local,0-20,0
+590,M,Kasaragod,Kerala,dubai,India,Imported,40-50,1
+591,M,Bengaluru,Karnataka,contact,India,Local,40-50,0
+592,M,Bengaluru,Karnataka,contact,India,Local,50-60,0
+593,M,Mysuru,Karnataka,contact,India,Local,0-20,0
+594,F,Mysuru,Karnataka,contact,India,Local,40-50,0
+595,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+596,F,Mysuru,Karnataka,contact,India,Local,20-30,0
+597,F,Mysuru,Karnataka,contact,India,Local,40-50,0
+598,M,Kalaburagi,Karnataka,sari,India,Local,50-60,0
+599,M,Bengaluru,Karnataka,contact,India,Local,30-40,0
+600,F,Bengaluru Rural,Karnataka,contact,India,Local,0-20,0
+601,M,Kannur,Kerala,contact,India,Local,50-60,0
+602,F,Kannur,Kerala,contact,India,Local,50-60,0
+603,M,Bengaluru,Karnataka,contact,India,Local,30-40,0
+604,M,Mysuru,Karnataka,contact,India,Local,40-50,0
+605,M,Mysuru,Karnataka,contact,India,Local,40-50,0
+606,F,Bidar,Karnataka,contact,India,Local,40-50,0
+607,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+608,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+609,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+610,M,Kannur,Kerala,dubai,India,Imported,20-30,1
+611,M,Kannur,Kerala,dubai,India,Imported,30-40,1
+612,M,Bengaluru,Karnataka,contact,India,Local,0-20,0
+613,F,Khordha,Odisha,contact,India,Local,40-50,0
+614,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+615,F,Bengaluru,Karnataka,sari,India,TBD,70-80,0
+616,M,Bengaluru,Karnataka,indonesia,India,Imported,50-60,0
+617,M,Bengaluru,Karnataka,sari,India,TBD,70-80,0
+618,F,Kalaburagi,Karnataka,contact,India,Local,20-30,0
+619,F,Vijayapura,Karnataka,sari,India,TBD,50-60,0
+620,F,Kalaburagi,Karnataka,contact,India,Local,30-40,0
+621,M,Belagavi,Karnataka,contact,India,Local,0-20,0
+622,M,Belagavi,Karnataka,contact,India,Local,30-40,0
+623,M,Belagavi,Karnataka,contact,India,Local,50-60,0
+624,M,Belagavi,Karnataka,contact,India,Local,20-30,0
+625,M,Kannur,Kerala,dubai,India,Imported,30-40,1
+626,M,Kalaburagi,Karnataka,sari,India,TBD,0-20,0
+627,M,Dharwad,Karnataka,contact,India,Local,50-60,0
+628,M,Dharwad,Karnataka,contact,India,Local,30-40,0
+629,F,Dharwad,Karnataka,contact,India,Local,70-80,0
+630,M,Dharwad,Karnataka,contact,India,Local,30-40,0
+631,F,Mandya,Karnataka,contact,India,Local,50-60,0
+632,F,Mandya,Karnataka,contact,India,Local,0-20,0
+633,M,Mandya,Karnataka,contact,India,Local,0-20,0
+634,M,Bagalkote,Karnataka,contact,India,Local,20-30,0
+635,F,Bidar,Karnataka,contact,India,Local,0-20,0
+636,F,Bidar,Karnataka,contact,India,Local,30-40,0
+637,M,Belagavi,Karnataka,contact,India,Local,0-20,0
+638,M,Belagavi,Karnataka,contact,India,Local,0-20,0
+639,M,Belagavi,Karnataka,contact,India,Local,40-50,0
+640,M,Bengaluru Rural,Karnataka,delhi,India,Local,30-40,0
+641,M,Bengaluru,Karnataka,sari,India,Local,60-70,0
+642,F,Kannur,Kerala,contact,India,Local,30-40,0
+643,M,Kannur,Kerala,usa,India,Local,70-80,0
+644,M,Bagalkote,Karnataka,contact,India,Local,40-50,0
+645,F,Bagalkote,Karnataka,contact,India,Local,30-40,0
+646,M,Chikkaballapura,Karnataka,sari,India,Local,60-70,0
+647,F,Bagalkote,Karnataka,contact,India,Local,30-40,0
+648,M,Bengaluru,Karnataka,sari,India,Local,60-70,0
+649,M,Bengaluru,Karnataka,hidupur,India,Local,20-30,0
+650,F,Kalaburagi,Karnataka,contact,India,Local,0-20,0
+651,M,Kalaburagi,Karnataka,contact,India,Local,50-60,0
+652,F,Kalaburagi,Karnataka,contact,India,Local,30-40,0
+653,M,Vijayapura,Karnataka,usa,India,Local,60-70,0
+654,M,Belagavi,Karnataka,delhi,India,Local,30-40,0
+655,M,Kannur,Kerala,dubai,India,Imported,20-30,1
+656,M,Kannur,Kerala,dubai,India,Imported,20-30,1
+657,M,Kannur,Kerala,dubai,India,Imported,30-40,1
+658,F,Kannur,Kerala,localTransmission,India,Local,30-40,1
+659,M,Bengaluru,Karnataka,sari,India,Local,50-60,0
+660,M,Bagalkote,Karnataka,contact,India,Local,50-60,0
+661,M,Bagalkote,Karnataka,contact,India,Local,30-40,0
+662,M,Mysuru,Karnataka,contact,India,Local,40-50,0
+663,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+664,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+665,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+666,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+667,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+668,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+669,M,Mysuru,Karnataka,contact,India,Local,20-30,0
+670,M,Mysuru,Karnataka,contact,India,Local,30-40,0
+671,M,Mysuru,Karnataka,sari,India,Local,70-80,0
+672,M,Kalaburagi,Karnataka,hadDisease,India,Local,0-20,0
+673,F,Vijayapura,Karnataka,contact,India,Local,30-40,0
+674,M,Vijayapura,Karnataka,contact,India,Local,20-30,0
+675,F,Bengaluru,Karnataka,contact,India,Local,30-40,0
